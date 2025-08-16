@@ -36,26 +36,26 @@ cron (for scheduling)
 find, cp, tar, gzip (for file management & compression)
 
 ## 📂 Repository Structure
+```
 .
 ├── backup.sh          # Main backup script
 ├── /backups           # Backup output directory (auto-created if missing)
 ├── sample_data/       # Example encrypted password files (for demo/testing)
 └── README.md          # Documentation
-
+```
 ## 🚀 How to Run
-1️⃣ Clone Repository
+**1️⃣ Clone Repository**
 git clone https://github.com/<your-username>/linux-backup-script.git
 cd linux-backup-script
 
-2️⃣ Make Script Executable
+**2️⃣ Make Script Executable**
 chmod +x backup.sh
 
-3️⃣ Run Script Manually
+**3️⃣ Run Script Manually**
 ./backup.sh
 
-4️⃣ Automate with Cron (Daily @ Midnight)
+**4️⃣ Automate with Cron (Daily @ Midnight)**
 crontab -e
-
 
 Add the line:
 
