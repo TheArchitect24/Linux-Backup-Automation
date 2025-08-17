@@ -25,8 +25,8 @@ This project demonstrates Linux system administration, shell scripting, automati
 ```
 .
 ├── backup.sh          # Main backup script
-├── /backups           # Backup output directory (auto-created if missing)
-├── sample_data/       # Example encrypted password files (for demo/testing)
+├── destinationfolder  # Backup output directory (auto-created if missing)
+├── targetfolder       # Example encrypted password files (for demo/testing)
 └── README.md          # Documentation
 ```
 ## 🚀 How to Run
