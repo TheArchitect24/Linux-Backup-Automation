@@ -16,10 +16,10 @@ This project demonstrates Linux system administration, shell scripting, automati
 4. Demonstrate secure handling of sensitive files.
 
 ## 🛠️ Tech Stack / Tools
-Linux (Ubuntu/CentOS/Debian)
-Bash Shell
-cron (for scheduling)
-find, cp, tar, gzip (for file management & compression)
+- Linux (Ubuntu/CentOS/Debian)
+- Bash Shell
+- cron (for scheduling)
+- find, cp, tar, gzip (for file management & compression)
 
 ## 📂 Repository Structure
 ```
