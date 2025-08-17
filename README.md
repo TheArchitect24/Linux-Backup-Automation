@@ -67,11 +67,11 @@ Backup moved to: destinationfolderpath
 Backup complete. Log updated at backup.log
 ```
 ## 🔑 Skills Demonstrated
-Linux System Administration
-Bash Scripting
-File System Management
-Task Automation with Cron
-Secure Backup Strategies
+- Linux System Administration
+- Bash Scripting
+- File System Management
+- Task Automation with Cron
+- Secure Backup Strategies
 
 ## 🧑‍💻 Author
 - Onyinyechukwu Kenneth Nebe
