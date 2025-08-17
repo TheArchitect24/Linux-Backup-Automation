@@ -50,10 +50,12 @@ crontab -e
 ```
 
 ## 📝 Example Script Workflow
+```
 Script checks /etc/security/ (or any given directory) for encrypted password files.
 Identifies those modified in the last 24 hours.
 Copies them into /backups/YYYY-MM-DD/ folder.
 Logs backup details into backup.log.
+```
 
 ## 📊 Sample Output
 ```
