@@ -1,5 +1,5 @@
 # Linux-Backup-Automation
-Bash + cron solution for detecting and backing up updated password files
+Bash + cron solution for detecting and backing up updated important files
 
 ## 🔎 Project Overview
 This project simulates a real-world Linux systems engineering task at a top-tech company (ABC International Inc.).
