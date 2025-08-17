@@ -10,10 +10,10 @@ Creates secure backups of these updated files to a designated backup directory.
 This project demonstrates Linux system administration, shell scripting, automation, and security-conscious development practices.
 
 ## 🎯 Objectives
-Automate daily backups using Bash scripting and cron jobs.
-Work with Linux utilities (find, tar, cp, date, etc.).
-Ensure only files updated in the past 24 hours are included in backups.
-Demonstrate secure handling of sensitive files.
+1. Automate daily backups using Bash scripting and cron jobs.
+2. Work with Linux utilities (find, tar, cp, date, etc.).
+3. Ensure only files updated in the past 24 hours are included in backups.
+4. Demonstrate secure handling of sensitive files.
 
 ## 🛠️ Tech Stack / Tools
 Linux (Ubuntu/CentOS/Debian)
@@ -59,13 +59,14 @@ Logs backup details into backup.log.
 
 ## 📊 Sample Output
 ```
-[2025-08-16 00:00:01] Backup started
-Files backed up: /etc/security/shadow.enc
-Backup saved to: /backups/2025-08-16/shadow.enc.gz
-[2025-08-16 00:00:02] Backup completed successfully
+Target Directory: targetfolder
+Destination Directory: destinationfolder
+*files*
+Backup file created: backup-[timestamp].tar.gz
+Backup moved to: destinationfolderpath
+Backup complete. Log updated at backup.log
 ```
 ## 🔑 Skills Demonstrated
-
 Linux System Administration
 Bash Scripting
 File System Management
@@ -73,6 +74,5 @@ Task Automation with Cron
 Secure Backup Strategies
 
 ## 🧑‍💻 Author
-
 Onyinyechukwu Kenneth Nebe
 💼 Data Engineer
