@@ -74,5 +74,5 @@ Task Automation with Cron
 Secure Backup Strategies
 
 ## 🧑‍💻 Author
-Onyinyechukwu Kenneth Nebe
-💼 Data Engineer
+- Onyinyechukwu Kenneth Nebe
+- 💼 Data Engineer
